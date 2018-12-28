@@ -1,5 +1,3 @@
 # HeidisTestRepository
 
 Hello there!
-
-Bla
